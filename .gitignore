@@ -1,0 +1,15 @@
+docker/mysql/mon_projet_php/ca-key.pem
+docker/mysql/mon_projet_php/ca.pem
+docker/mysql/mon_projet_php/client-cert.pem
+docker/mysql/mon_projet_php/client-key.pem
+docker/mysql/mon_projet_php/private_key.pem
+docker/mysql/mon_projet_php/public_key.pem
+docker/mysql/mon_projet_php/server-cert.pem
+docker/mysql/mon_projet_php/server-key.pem
+docker/mysql/mon_projet_php/auto.cnf
+docker/mysql/mon_projet_php/ib_buffer_pool
+docker/mysql/mon_projet_php/ib_logfile0
+docker/mysql/mon_projet_php/ib_logfile1
+docker/mysql/mon_projet_php/ibdata1
+docker/mysql/mon_projet_php/ibtmp1
+docker/mysql/mon_projet_php/mysql.sock
